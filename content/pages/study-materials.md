@@ -11,31 +11,345 @@ Study Guides
 
 The Study Guides include pre-tests, photographs of every chalkboard used in the videotapes, reading assignments in the [supplementary notes](#Supplementary_Notes) and [textbook](#Textbook), and exercises with solutions.
 
-| LEC # | TOPICS | PHOTOS, READINGS, and EXERCISES | SOLUTIONS |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**Part I: Complex Variables**{{< /td-colspan >}} ||||
-| 1 | The Complex Numbers | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec01.pdf)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.1MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol01.pdf)) |
-| 2 | Functions of a Complex Variable | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec02.pdf)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.7MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol02.pdf)) |
-| 3 | Conformal Mappings | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec03.pdf)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol03.pdf)) |
-| 4 | Sequences and Series | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec04.pdf)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.8MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol04.pdf)) |
-| 5 | Integrating Complex Functions | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec05.pdf)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.5MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol05.pdf)) |
-| {{< td-colspan 4 >}}**Part II: Differential Equations**{{< /td-colspan >}} ||||
-| 1 | The Concept of a General Solution | ([PDF - 2.3MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_lec01.pdf)) | ([PDF - 15.3MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_sol01.pdf)) |
-| 2 | Linear Differential Equations | ([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_lec02.pdf)) | ([PDF - 4.0MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_sol02.pdf)) |
-| 3 | Solving the Linear Equations L(y) = 0; Constant Coefficients | ([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_lec03.pdf)) | ([PDF - 3.2MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_sol03.pdf)) |
-| 4 | Undetermined Coefficients | ([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_lec04.pdf)) | ([PDF - 4.4MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_sol04.pdf)) |
-| 5 | Variations of Parameters | ([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_lec05.pdf)) | ([PDF - 4.0MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_sol05.pdf)) |
-| 6 | Power Series Solutions | ([PDF - 1.7MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_lec06.pdf)) | ([PDF - 3.7MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_sol06.pdf)) |
-| 7 | Laplace Transforms | ([PDF - 1.2MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_lec07.pdf)) | ([PDF - 8.2MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_sol07.pdf)) |
-| {{< td-colspan 4 >}}**Part III: Linear Algebra**{{< /td-colspan >}} ||||
-| 1 | Vector Spaces | ([PDF - 1.7MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec01.pdf)) | ([PDF - 4.4MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol01.pdf)) |
-| 2 | Calculus of Several Variables | ([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec02.pdf)) | ([PDF - 3.3MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol02.pdf)) |
-| 3 | Constructing Bases | ([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec03.pdf)) | ([PDF - 2.5MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol03.pdf)) |
-| 4 | Linear Transformations | ([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec04.pdf)) | ([PDF - 5.5MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol04.pdf)) |
-| 5 | Determinants | ([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec05.pdf)) | ([PDF - 5.3MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol05.pdf)) |
-| 6 | Eigenvectors | ([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec06.pdf)) | ([PDF - 3.8MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol06.pdf)) |
-| 7 | Dot Products | ([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec07.pdf)) | ([PDF - 5.8MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol07.pdf)) |
-| 8 | Orthogonal Functions | ([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec08.pdf)) | ([PDF - 5.9MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol08.pdf)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+PHOTOS, READINGS, and EXERCISES
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part I: Complex Variables**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Complex Numbers
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec01.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.1MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol01.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Functions of a Complex Variable
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec02.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.7MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol02.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Conformal Mappings
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec03.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol03.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Sequences and Series
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec04.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.8MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol04.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Integrating Complex Functions
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec05.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.5MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol05.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part II: Differential Equations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Concept of a General Solution
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.3MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_lec01.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 15.3MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_sol01.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Differential Equations
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_lec02.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 4.0MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_sol02.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Solving the Linear Equations L(y) = 0; Constant Coefficients
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_lec03.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 3.2MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_sol03.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Undetermined Coefficients
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_lec04.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 4.4MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_sol04.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Variations of Parameters
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_lec05.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 4.0MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_sol05.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Power Series Solutions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.7MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_lec06.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 3.7MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_sol06.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Laplace Transforms
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.2MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_lec07.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 8.2MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partII_sol07.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part III: Linear Algebra**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Vector Spaces
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.7MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec01.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 4.4MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol01.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Calculus of Several Variables
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec02.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 3.3MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol02.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Constructing Bases
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec03.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.5MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol03.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Transformations
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec04.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 5.5MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol04.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Determinants
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec05.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 5.3MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol05.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Eigenvectors
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec06.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 3.8MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol06.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Dot Products
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec07.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 5.8MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol07.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Orthogonal Functions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_lec08.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 5.9MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partIII_sol08.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Supplementary_Notes" >}}{{< /anchor >}}Supplementary Notes for Complex Variables, Differential Equations, and Linear Algebra
 ----------------------------------------------------------------------------------------------------------------------------------------
