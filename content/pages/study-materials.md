@@ -44,10 +44,10 @@ SOLUTIONS
 The Complex Numbers
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec01.pdf))
+([PDF - 1.8MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec01.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.1MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol01.pdf))
+([PDF - 5.1MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol01.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,10 +59,10 @@ The Complex Numbers
 Functions of a Complex Variable
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec02.pdf))
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec02.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.7MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol02.pdf))
+([PDF - 4.7MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol02.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,10 +74,10 @@ Functions of a Complex Variable
 Conformal Mappings
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec03.pdf))
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec03.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol03.pdf))
+([PDF - 2.9MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol03.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,10 +89,10 @@ Conformal Mappings
 Sequences and Series
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec04.pdf))
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec04.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.8MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol04.pdf))
+([PDF - 2.8MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol04.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,10 +104,10 @@ Sequences and Series
 Integrating Complex Functions
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec05.pdf))
+([PDF](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_lec05.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.5MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol05.pdf))
+([PDF - 5.5MB](/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/study-materials/MITRES_18_008_partI_sol05.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
